@@ -1,0 +1,6 @@
+# Lines starting with # are ignored.
+# Format: <filename on SD card>|<display title>
+
+0001.mp3|Bohemian Rhapsody
+0002.mp3|Hotel California
+0003.mp3|Imagine
