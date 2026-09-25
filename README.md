@@ -4,6 +4,9 @@ A standalone, SD-card-based MP3 player built on the ESP32 that streams audio ove
 
 SmartPod features an OLED interface, SD-card music storage, smart shuffle, playback history, audio caching, adaptive buffering, and lightweight audio DSP.
 
+Full Demo Link:
+https://www.youtube.com/watch?v=pTDd5YzEN70
+
 ## Features
 
 - **SD-card MP3 playback** — Music is stored locally on a microSD card.
